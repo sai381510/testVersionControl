@@ -1,4 +1,4 @@
-student = "ຊື່ນັກສຶກສາ: Sai Mon"
+student = "ຊື່ນັກສຶກສາ: Sai mon"
 
 
 print(student)
